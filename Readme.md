@@ -19,9 +19,12 @@ Here comes the Jatra app to solve this particular problem. Suppose the user has 
 <h3 align="center">
   <img src="https://qr.expo.dev/expo-go?owner=asad.mridul&slug=jatra&releaseChannel=default&host=exp.host" width="300" height="300"/>
 </h3>
-<p>Scan this qr code in "Expo Go" app, and run the program in your device without installation!</p>
+<p  align="center">Scan this qr code in "Expo Go" app, and run the program in your device without installation!</p>
 <br/>
-<a href="https://expo.dev/@asad.mridul/jatra">Expo Link</a>
+<h3 align="center">
+  <a href="https://expo.dev/@asad.mridul/jatra">Expo Link</a>
+</h3>
+<br/>
 <br/>
 
 ### Technology Used
