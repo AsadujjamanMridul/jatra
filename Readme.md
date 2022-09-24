@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/logo.png" width="35" height="35" style="margin-right: 10px"/> Jatra 
+  <img src="assets/logo.png" height="35" style="margin-right: 10px"/> Jatra 
 </h1>
 
 #### Your companion on the go
@@ -17,7 +17,7 @@ Here comes the Jatra app to solve this particular problem. Suppose the user has 
 
 <br/>
 <h3 align="center">
-  <img src="https://qr.expo.dev/expo-go?owner=asad.mridul&slug=jatra&releaseChannel=default&host=exp.host" width="35" height="35" style="margin-right: 10px"/>
+  <img src="https://qr.expo.dev/expo-go?owner=asad.mridul&slug=jatra&releaseChannel=default&host=exp.host" width="100" height="100"/>
 </h3>
 <br/>
 <a href="https://expo.dev/@asad.mridul/jatra">Expo Link</a>
@@ -35,7 +35,6 @@ Here comes the Jatra app to solve this particular problem. Suppose the user has 
 expo init my-app --template @native-base/expo-template
 ```
 
-<br/>
 ## [Jatra-Admin Repo](https://github.com/AsadujjamanMridul/jatra-admin/)
 ### [Admin Panel Live Site](https://jatra-admin.netlify.app/)
 
