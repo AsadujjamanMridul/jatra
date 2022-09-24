@@ -2,6 +2,8 @@
   "expo": {
     "name": "jatra",
     "slug": "jatra",
+    "privacy": "public",
+    "description": "'Jatra' provides all route information including fare and distance of all bus routes based in Dhaka.",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

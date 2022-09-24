@@ -307,7 +307,7 @@ export default function SearchResult({ navigation, route, useNet }) {
 
                   {/* STUDENT FARE AVAILIBILITY */}
 
-                  {item.studentFare ? (
+                  {item.studentFare == "true" || item.studentFare == true ? (
                     <Text bold fontSize={"sm"} color="emerald.500">
                       *Student Fare Available
                     </Text>
