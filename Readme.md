@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/logo.png" height="35" style="margin-right: 10px"/> Jatra 
+  <img src="assets/logo.png" height="35" style="margin-right: 10px"/>
 </h1>
 
 #### Your companion on the go
