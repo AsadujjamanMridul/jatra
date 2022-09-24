@@ -29,15 +29,25 @@ Here comes the Jatra app to solve this particular problem. Suppose the user has 
 
 ### Technology Used
 • React Native <br/>
+• Expo <br/>
 • Native Base <br/>
+• Firebase Auth <br/>
+• Firebase Firestore <br/>
 
 <br/>
 
 ## Usage
 
+Clone the repository in your local machine, and run these following commands
 ```sh
-expo init my-app --template @native-base/expo-template
+expo install
 ```
+after installing the packages, run this
+```sh
+expo start
+```
+
+<br/>
 
 ## [Jatra-Admin Repo](https://github.com/AsadujjamanMridul/jatra-admin/)
 ### [Admin Panel Live Site](https://jatra-admin.netlify.app/)
