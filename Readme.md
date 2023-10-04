@@ -9,7 +9,7 @@
 ## Overview
 
 <h3 align="center">
-  <img src="[https://qr.expo.dev/expo-go?owner=asad.mridul&slug=jatra&releaseChannel=default&host=exp.host](https://i.ibb.co/1LfSgrn/Jatra-Mobile-App.png)" width="100%"/>
+  <img src="https://i.ibb.co/1LfSgrn/Jatra-Mobile-App.png" width="100%"/>
 </h3>
 <br/>
 
