@@ -41,6 +41,23 @@ Here comes the Jatra app to solve this particular problem. Suppose the user has 
 
 <br/>
 
+## Screenshots
+
+<h3 align="center">
+  <img src="./screenshots/Screens 1.png"/>
+</h3>
+<br/>
+
+<h3 align="center">
+  <img src="./screenshots/Screens 2.png"/>
+</h3>
+<br/>
+
+<h3 align="center">
+  <img src="./screenshots/Screens 3.png"/>
+</h3>
+<br/>
+
 ## Usage
 
 Clone the repository in your local machine, and run these following commands
