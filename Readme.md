@@ -8,6 +8,11 @@
 
 ## Overview
 
+<h3 align="center">
+  <img src="[https://qr.expo.dev/expo-go?owner=asad.mridul&slug=jatra&releaseChannel=default&host=exp.host](https://i.ibb.co/1LfSgrn/Jatra-Mobile-App.png)" width="100%"/>
+</h3>
+<br/>
+
 The most popular public transport in our country is the bus. According to the Bangladesh Road Transport Authority (BRTA) survey, the number of buses in the country 
 in 2015 was 5407. In 2018, the number stood at 26,691. If we calculate the number of passengers travelling in this number of buses per day, it will stop at crores. For the 
 convenience of many passengers, the Regional Transport Committee has provided bus fare charts for all routes from Dhaka Metro. However, the lion's share of these passengers 
