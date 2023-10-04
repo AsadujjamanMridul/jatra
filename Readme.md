@@ -9,7 +9,7 @@
 ## Overview
 
 <h3 align="center">
-  <img src="https://i.ibb.co/1LfSgrn/Jatra-Mobile-App.png" width="500"/>
+  <img src="https://i.ibb.co/1LfSgrn/Jatra-Mobile-App.png"/>
 </h3>
 <br/>
 
